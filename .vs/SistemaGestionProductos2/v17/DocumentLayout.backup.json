@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94C05CB4-696C-456D-AEDD-9CDAC9A2F8C6}|SistemaGestionProductos2\\SistemaGestionProductos2.csproj|c:\\users\\daniel peraza\\source\\repos\\sistemagestionproductos2\\sistemagestionproductos2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94C05CB4-696C-456D-AEDD-9CDAC9A2F8C6}|SistemaGestionProductos2\\SistemaGestionProductos2.csproj|solutionrelative:sistemagestionproductos2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C05CB4-696C-456D-AEDD-9CDAC9A2F8C6}|SistemaGestionProductos2\\SistemaGestionProductos2.csproj|c:\\users\\daniel peraza\\source\\repos\\sistemagestionproductos2\\sistemagestionproductos2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C05CB4-696C-456D-AEDD-9CDAC9A2F8C6}|SistemaGestionProductos2\\SistemaGestionProductos2.csproj|solutionrelative:sistemagestionproductos2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C05CB4-696C-456D-AEDD-9CDAC9A2F8C6}|SistemaGestionProductos2\\SistemaGestionProductos2.csproj|c:\\users\\daniel peraza\\source\\repos\\sistemagestionproductos2\\sistemagestionproductos2\\models\\sistemagestionproductoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C05CB4-696C-456D-AEDD-9CDAC9A2F8C6}|SistemaGestionProductos2\\SistemaGestionProductos2.csproj|solutionrelative:sistemagestionproductos2\\models\\sistemagestionproductoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C05CB4-696C-456D-AEDD-9CDAC9A2F8C6}|SistemaGestionProductos2\\SistemaGestionProductos2.csproj|c:\\users\\daniel peraza\\source\\repos\\sistemagestionproductos2\\sistemagestionproductos2\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C05CB4-696C-456D-AEDD-9CDAC9A2F8C6}|SistemaGestionProductos2\\SistemaGestionProductos2.csproj|solutionrelative:sistemagestionproductos2\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C05CB4-696C-456D-AEDD-9CDAC9A2F8C6}|SistemaGestionProductos2\\SistemaGestionProductos2.csproj|c:\\users\\daniel peraza\\source\\repos\\sistemagestionproductos2\\sistemagestionproductos2\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C05CB4-696C-456D-AEDD-9CDAC9A2F8C6}|SistemaGestionProductos2\\SistemaGestionProductos2.csproj|solutionrelative:sistemagestionproductos2\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C97D5DE-8D42-4006-B22F-36F9DDE56F0A}|SistemaGestionProductos2.Tests\\SistemaGestionProductos2.Tests.csproj|c:\\users\\daniel peraza\\source\\repos\\sistemagestionproductos2\\sistemagestionproductos2.tests\\productocontrollertest\\productocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C97D5DE-8D42-4006-B22F-36F9DDE56F0A}|SistemaGestionProductos2.Tests\\SistemaGestionProductos2.Tests.csproj|solutionrelative:sistemagestionproductos2.tests\\productocontrollertest\\productocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C05CB4-696C-456D-AEDD-9CDAC9A2F8C6}|SistemaGestionProductos2\\SistemaGestionProductos2.csproj|c:\\users\\daniel peraza\\source\\repos\\sistemagestionproductos2\\sistemagestionproductos2\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94C05CB4-696C-456D-AEDD-9CDAC9A2F8C6}|SistemaGestionProductos2\\SistemaGestionProductos2.csproj|solutionrelative:sistemagestionproductos2\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C05CB4-696C-456D-AEDD-9CDAC9A2F8C6}|SistemaGestionProductos2\\SistemaGestionProductos2.csproj|c:\\users\\daniel peraza\\source\\repos\\sistemagestionproductos2\\sistemagestionproductos2\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94C05CB4-696C-456D-AEDD-9CDAC9A2F8C6}|SistemaGestionProductos2\\SistemaGestionProductos2.csproj|solutionrelative:sistemagestionproductos2\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C05CB4-696C-456D-AEDD-9CDAC9A2F8C6}|SistemaGestionProductos2\\SistemaGestionProductos2.csproj|c:\\users\\daniel peraza\\source\\repos\\sistemagestionproductos2\\sistemagestionproductos2\\views\\producto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94C05CB4-696C-456D-AEDD-9CDAC9A2F8C6}|SistemaGestionProductos2\\SistemaGestionProductos2.csproj|solutionrelative:sistemagestionproductos2\\views\\producto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C05CB4-696C-456D-AEDD-9CDAC9A2F8C6}|SistemaGestionProductos2\\SistemaGestionProductos2.csproj|c:\\users\\daniel peraza\\source\\repos\\sistemagestionproductos2\\sistemagestionproductos2\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94C05CB4-696C-456D-AEDD-9CDAC9A2F8C6}|SistemaGestionProductos2\\SistemaGestionProductos2.csproj|solutionrelative:sistemagestionproductos2\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C97D5DE-8D42-4006-B22F-36F9DDE56F0A}|SistemaGestionProductos2.Tests\\SistemaGestionProductos2.Tests.csproj|c:\\users\\daniel peraza\\source\\repos\\sistemagestionproductos2\\sistemagestionproductos2.tests\\sistemagestionproductos2.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C97D5DE-8D42-4006-B22F-36F9DDE56F0A}|SistemaGestionProductos2.Tests\\SistemaGestionProductos2.Tests.csproj|solutionrelative:sistemagestionproductos2.tests\\sistemagestionproductos2.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94C05CB4-696C-456D-AEDD-9CDAC9A2F8C6}|SistemaGestionProductos2\\SistemaGestionProductos2.csproj|c:\\users\\daniel peraza\\source\\repos\\sistemagestionproductos2\\sistemagestionproductos2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94C05CB4-696C-456D-AEDD-9CDAC9A2F8C6}|SistemaGestionProductos2\\SistemaGestionProductos2.csproj|solutionrelative:sistemagestionproductos2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2.Tests\\ProductoControllerTest\\ProductoControllerTest.cs",
+              "RelativeDocumentMoniker": "SistemaGestionProductos2.Tests\\ProductoControllerTest\\ProductoControllerTest.cs",
+              "ToolTip": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2.Tests\\ProductoControllerTest\\ProductoControllerTest.cs",
+              "RelativeToolTip": "SistemaGestionProductos2.Tests\\ProductoControllerTest\\ProductoControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:51:07.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SistemaGestionProductos2.Tests",
+              "DocumentMoniker": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2.Tests\\SistemaGestionProductos2.Tests.csproj",
+              "RelativeDocumentMoniker": "SistemaGestionProductos2.Tests\\SistemaGestionProductos2.Tests.csproj",
+              "ToolTip": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2.Tests\\SistemaGestionProductos2.Tests.csproj",
+              "RelativeToolTip": "SistemaGestionProductos2.Tests\\SistemaGestionProductos2.Tests.csproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAIAZwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T19:48:51.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\Views\\Producto\\edit.cshtml",
+              "RelativeDocumentMoniker": "SistemaGestionProductos2\\Views\\Producto\\edit.cshtml",
+              "ToolTip": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\Views\\Producto\\edit.cshtml",
+              "RelativeToolTip": "SistemaGestionProductos2\\Views\\Producto\\edit.cshtml",
+              "ViewState": "AgIAACQAAACQyszMzMwXwDEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T17:20:27.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaGestionProductos2\\Views\\Producto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "SistemaGestionProductos2\\Views\\Producto\\Index.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQvTkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T17:17:41.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\Views\\Producto\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SistemaGestionProductos2\\Views\\Producto\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\Views\\Producto\\Delete.cshtml",
+              "RelativeToolTip": "SistemaGestionProductos2\\Views\\Producto\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T17:10:11.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\Views\\Producto\\Create.cshtml",
+              "RelativeDocumentMoniker": "SistemaGestionProductos2\\Views\\Producto\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\Views\\Producto\\Create.cshtml",
+              "RelativeToolTip": "SistemaGestionProductos2\\Views\\Producto\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T17:08:54.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "SistemaGestionProductos2\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\Models\\Producto.cs",
+              "RelativeToolTip": "SistemaGestionProductos2\\Models\\Producto.cs",
+              "ViewState": "AgIAAAEAAABkNDMzM7MSwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:02:14.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "SistemaGestionProductos2\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "SistemaGestionProductos2\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAL0AAAAAmJmZmZkawD8AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:54:49.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SistemaGestionProductos2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SistemaGestionProductos2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAUAAAAAIjMzMzPbvxEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:52:52.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaGestionProductos2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\appsettings.json",
+              "RelativeToolTip": "SistemaGestionProductos2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-06T16:46:53.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaGestionProductos2\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\Program.cs",
+              "RelativeToolTip": "SistemaGestionProductos2\\Program.cs",
+              "ViewState": "AgIAABQAAACA/v///38ZwA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:48:38.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SistemaGestionProductosContext.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\Models\\SistemaGestionProductosContext.cs",
+              "RelativeDocumentMoniker": "SistemaGestionProductos2\\Models\\SistemaGestionProductosContext.cs",
+              "ToolTip": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\Models\\SistemaGestionProductosContext.cs",
+              "RelativeToolTip": "SistemaGestionProductos2\\Models\\SistemaGestionProductosContext.cs",
+              "ViewState": "AgIAABsAAACAmJmZmRkTwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T16:45:03.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

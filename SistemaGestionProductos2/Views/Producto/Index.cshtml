@@ -1,0 +1,80 @@
+﻿@model IEnumerable<SistemaGestionProductos2.Models.Producto>
+
+@{
+    ViewData["Title"] = "Lista de Productos";
+}
+
+<h2>Lista de Productos</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Crear Nuevo Producto</a>
+</p>
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Descripción</th>
+            <th>Precio Base</th>
+            <th>Precio con Descuento</th>
+            <th>Acciones</th>
+            <th>Imagen</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var producto in Model)
+        {
+            <tr>
+                <td>@producto.Nombre</td>
+                <td>@producto.Descripcion</td>
+                <td>@producto.PrecioBase.ToString("C")</td>
+                <td>@(producto.PrecioDescuento?.ToString("C") ?? "Sin descuento")</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(producto.Imagen))
+                    {
+                        <img src="@producto.Imagen" alt="Imagen de @producto.Nombre" width="100" />
+                    }
+                    else
+                    {
+                        <span>Sin imagen</span>
+                    }
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@producto.Id" class="btn btn-warning">Editar</a>
+
+                    <form asp-action="Delete" method="post" id="deleteForm-@producto.Id" style="display: inline;">
+                        <input type="hidden" name="id" value="@producto.Id" />
+                        @Html.AntiForgeryToken()
+                        <button type="button" onclick="confirmDelete(@producto.Id, '@producto.Nombre')"
+                                class="btn btn-danger">
+                            Eliminar
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+<script>
+    function confirmDelete(id, nombre) {
+        Swal.fire({
+            title: '¿Estás seguro?',
+            html: `Vas a eliminar el producto: <b>${nombre}</b><br>¡Esta acción no se puede deshacer!`,
+            icon: 'warning',
+            showCancelButton: true,
+            confirmButtonColor: '#d33',
+            cancelButtonColor: '#3085d6',
+            confirmButtonText: 'Sí, eliminar',
+            cancelButtonText: 'Cancelar'
+        }).then((result) => {
+            if (result.isConfirmed) {
+                document.getElementById(`deleteForm-${id}`).submit();
+            }
+        });
+    }
+</script>

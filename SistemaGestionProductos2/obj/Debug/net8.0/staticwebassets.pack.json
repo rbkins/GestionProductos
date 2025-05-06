@@ -1,0 +1,313 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SistemaGestionProductos2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SistemaGestionProductos2.c5wt72xbnh.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\images\\0bd13013-e8ac-411c-bb33-b6a32fc447b9.png",
+      "PackagePath": "staticwebassets\\images\\0bd13013-e8ac-411c-bb33-b6a32fc447b9.png"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\images\\1120ff28-5724-49e7-b594-64ccbe079403.jpg",
+      "PackagePath": "staticwebassets\\images\\1120ff28-5724-49e7-b594-64ccbe079403.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\images\\1cbc4bfd-963b-4923-b613-2f42d1066d4f.png",
+      "PackagePath": "staticwebassets\\images\\1cbc4bfd-963b-4923-b613-2f42d1066d4f.png"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\images\\80e5d51f-fdd2-4083-98b7-71289b4a6098.png",
+      "PackagePath": "staticwebassets\\images\\80e5d51f-fdd2-4083-98b7-71289b4a6098.png"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\images\\900549de-d3e5-4f09-9318-c0b4c3623d74.png",
+      "PackagePath": "staticwebassets\\images\\900549de-d3e5-4f09-9318-c0b4c3623d74.png"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\images\\92ad7259-946d-461e-8ca4-d370f82816f1.jpg",
+      "PackagePath": "staticwebassets\\images\\92ad7259-946d-461e-8ca4-d370f82816f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\images\\a3c92f92-49f0-4665-b4ff-892698c938bb.jpg",
+      "PackagePath": "staticwebassets\\images\\a3c92f92-49f0-4665-b4ff-892698c938bb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\images\\cef693a2-c2cc-48a4-8f22-5d1332e98fd6.png",
+      "PackagePath": "staticwebassets\\images\\cef693a2-c2cc-48a4-8f22-5d1332e98fd6.png"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\images\\dc03f3da-3c32-487a-98c6-60c6e86fef36.png",
+      "PackagePath": "staticwebassets\\images\\dc03f3da-3c32-487a-98c6-60c6e86fef36.png"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\images\\dea6d88a-72d7-4faa-921d-4ab0b7a99eda.png",
+      "PackagePath": "staticwebassets\\images\\dea6d88a-72d7-4faa-921d-4ab0b7a99eda.png"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\images\\f2c7367d-3667-4741-bbb9-648de043a803.png",
+      "PackagePath": "staticwebassets\\images\\f2c7367d-3667-4741-bbb9-648de043a803.png"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Daniel Peraza\\source\\repos\\SistemaGestionProductos2\\SistemaGestionProductos2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SistemaGestionProductos2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SistemaGestionProductos2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SistemaGestionProductos2.props",
+      "PackagePath": "build\\SistemaGestionProductos2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SistemaGestionProductos2.props",
+      "PackagePath": "buildMultiTargeting\\SistemaGestionProductos2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SistemaGestionProductos2.props",
+      "PackagePath": "buildTransitive\\SistemaGestionProductos2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
